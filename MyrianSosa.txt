@@ -1,0 +1,2 @@
+La instruccion dada en el leguge C no me esta ejecutando bien.
+¡Porque sera?
